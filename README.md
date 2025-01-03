@@ -1,6 +1,6 @@
 # WorldTravel_Map
 
-"The greatest freedom is to walk alone in the wild." ~ Unknown
+"The greatest freedom is to walk alone in the wild." ~ Anonymous
 
 This is an interactive world map showing my travel destinations and hiking activities whilst on a gap year after graduation from my master's degree.
 
